@@ -23,7 +23,7 @@ Alternatively, you can directly suggest changes to the code/text underlying the 
 This is typically done by creating a fork (or split), making changes, and then merging the fork with the main branch again.
 In addition for allowing another person to review your changes, it also adds your nametag to the change - and provides you with some ownership of the (changed) content.
 
-## Creating a fork
+## Creating a spoon
 
 There are several ways in which you can make a fork, as outlined in the [GitHub Docs pages](https://docs.github.com/en/get-started/quickstart).
 Here, we will use the simplest way to get going, namely, by simply following {numref}`sfm_polygons` and clicking *Suggest edit*.
